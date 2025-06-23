@@ -3,6 +3,8 @@ baseURL = 'https://cambiomed-biodiversa.com/'
 languageCode = 'en-us'
 disableKinds = ['taxonomy', 'term']
 
+[params]
+site_logo = "images/cambiomed-logo.png"
 
 ################
 # Social Media #

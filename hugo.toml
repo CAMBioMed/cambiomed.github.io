@@ -19,6 +19,10 @@ username = "cambiomed-biodiversa.com"
 [params.ananke.social.instagram]
 username = "cambiomed_biodiversa"
 
+
+###########
+# Modules #
+###########
 [module]
 [[module.imports]]
 disable = false

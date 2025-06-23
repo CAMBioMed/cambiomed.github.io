@@ -3,6 +3,22 @@ baseURL = 'https://cambiomed-biodiversa.com/'
 languageCode = 'en-us'
 disableKinds = ['taxonomy', 'term']
 
+
+################
+# Social Media #
+################
+[params.ananke.social.follow]
+networks = [
+  "bluesky",
+  "instagram",
+]
+
+[params.ananke.social.bluesky]
+username = "cambiomed-biodiversa.com"
+
+[params.ananke.social.instagram]
+username = "cambiomed_biodiversa"
+
 [module]
 [[module.imports]]
 disable = false

@@ -3,8 +3,43 @@ baseURL = 'https://cambiomed-biodiversa.com/'
 languageCode = 'en-us'
 disableKinds = ['taxonomy', 'term']
 
+defaultContentLanguage = "en"
+sectionPagesMenu = "main"
+#paginate.paperSize = 10
+
+
+# [menu]
+# [[menu.nav]]
+# identifier = "home"
+# name = "Home"
+# url = "/"
+# weight = 1
+
+# [[menu.nav]]
+# identifier = "about"
+# name = "About"
+# url = "/about/"
+# weight = 2
+
+# [[menu.nav]]
+# identifier = "connect"
+# name = "Connect"
+# url = "/connect/"
+# weight = 
+
 [params]
 site_logo = "images/cambiomed-logo.png"
+date_format = ":date_full"
+
+
+###########
+# Sitemap #
+###########
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
 
 ################
 # Social Media #

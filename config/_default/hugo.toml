@@ -1,38 +1,40 @@
 ## -----------------------------------------------
 ## Basic Configuration
 ## -----------------------------------------------
-
+title = "CAMBioMed"
+languageCode = 'en-us'
+copyright = "{year}"
 theme = "hugo-story"
 
 ## -----------------------------------------------
 ## Publish
 ## -----------------------------------------------
 
-relativeURLs = "true"
-#canonifyURLs = "true"
-
-# Local
-baseURL = "/"
-publishDir = "public"
-
-# Remote
-#baseURL = "https://caressofsteel.github.io/demos/hugo/hugo-story/"
-#publishDir = "//centos/sites/hugodev/hugostory/"
+relativeURLs = true
+#canonifyURLs = true
 
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
 ## -----------------------------------------------
+disableKinds = [ "taxonomy", "section" ]
 
-disableKinds = ["taxonomy", "section"]
-# googleAnalytics = "G-XXXXXXXXXX"
 
 ## -----------------------------------------------
 ## Site Parameters
 ## -----------------------------------------------
 
 [Params]
+  description = "Coordinated and Adaptive Monitoring of Biodiversity change across Mediterranean rocky ecosystems"
+  logo = "images/banner.jpg"
+  favicon = true
 
 [Params.social]
+  github = "https://github.com/CAMBioMed/"
+  bluesky = "https://bsky.app/profile/cambiomed-biodiversa.com"
+  instagram = "https://www.instagram.com/cambiomed_biodiversa/"
+#   email = "cambiomed@cambiomed-biodiversa.com"
 
 [Params.asset]
+  fontawesome_css = ["css/fontawesome-all.min.css"]
+  fontawesome_js = ["js/fontawesome-all.min.js"]

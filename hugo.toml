@@ -1,18 +1,19 @@
 ## -----------------------------------------------
 ## Basic Configuration
 ## -----------------------------------------------
-
+title = 'CAMBioMed'
+baseURL = 'https://cambiomed-biodiversa.com/'
+languageCode = 'en-us'
 theme = "hugo-story"
 
 ## -----------------------------------------------
 ## Publish
 ## -----------------------------------------------
 
-relativeURLs = "true"
+relativeURLs = true
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
 publishDir = "public"
 
 # Remote
@@ -24,7 +25,7 @@ publishDir = "public"
 ## Hugo Built-in Features
 ## -----------------------------------------------
 
-disableKinds = ["taxonomy", "section"]
+disableKinds = [ "taxonomy", "section" ]
 # googleAnalytics = "your-google-analytics-id"
 
 ## -----------------------------------------------

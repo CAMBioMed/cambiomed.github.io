@@ -1,10 +1,10 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : "Hugo Story"
+title : "CAMBioMed"
 subtitle: |
-  Hugo Story released for free under the <a target="_blank" href="https://creativecommons.org/licenses/by/3.0/">Creative Commons</a>.
+  Coordinated and Adaptive Monitoring of Biodiversity change across Mediterranean rocky ecosystems
 content : |
-  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
+  Rocky reefs are a hotspot of Mediterranean marine biodiversity. At the same time, these ecosystems are highly impacted by multiple human activities and global change. The Mediterranean Sea has already suffered from rapidly increasing overexploitation and mass mortalities due to heatwaves. Such biodiversity shifts have affected ecosystem functioning and compromised conservation efforts. Long-term data are essential for evaluating ecosystem responses to disturbances (including global changes), providing baselines to evaluate change, and assessing the effectiveness of management measures in securing ecosystem structure, function, and services provision. In CAMBioMed, we will develop an adaptive monitoring framework together with stakeholders, propose a novel toolkit for efficiently monitoring Mediterranean rocky ecosystems, and enable decision-makers to answer critical questions about the conservation of changing marine rocky ecosystems.
 button:
   label : "Get Started"
   link : "#first"

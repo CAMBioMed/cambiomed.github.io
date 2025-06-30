@@ -1,7 +1,7 @@
 <!-- Banner -->
 <section class="banner {{ .style }}">
     <div class="content">
-        {{ with .title }}<h1>{{ . }}</h1>{{ end }}
+        <img src="images/cambiomed-logo.png" alt="CAMBioMed Logo" class="logo" style="width:100%" />
         {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
         {{ with .button }}<ul class="actions stacked">

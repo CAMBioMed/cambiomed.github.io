@@ -1,0 +1,9 @@
+<section>
+    <!-- <span class="icon {{ .style }}"></span> -->
+    <div class="image">
+        <img src="{{ .photo }}" alt="" width="100%"/>
+    </div>
+    <h3>{{ .name }}</h3>
+    <p>{{ .bio | safeHTML }}</p>
+    {{ with .links }}{{ partial "socials" . }}{{ end }}
+</section>

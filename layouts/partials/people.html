@@ -1,0 +1,20 @@
+<!-- Items -->
+<section class="wrapper style1 align-center" id="people">
+    <div class="inner">
+        {{ with .title }}<h2>{{ . }}</h2>{{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+        {{ $style := .style }}
+        {{ range .groups }}
+            <section>
+                {{ with .name }}<h3>{{ . }}</h3>{{ end }}
+                {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
+                {{ with .links }}{{ partial "socials" . }}{{ end }}
+                <div class="people items {{ $style }}">
+                    {{ range .members }}
+                        {{ partial "person" . }}
+                    {{ end }}
+                </div>
+            </section>
+        {{ end }}
+    </div>
+</section>

@@ -1,2 +1,7 @@
 baseURL = 'https://cambiomed-biodiversa.com/'
 publishDir = "public"
+
+# Ensure cacheDir is persistent across builds
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'

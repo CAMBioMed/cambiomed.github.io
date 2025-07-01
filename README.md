@@ -1,6 +1,6 @@
 # CAMBioMed Website
 
-
+[![Website][website-button]][website]
 
 
 ## Local using Docker (recommended)
@@ -27,3 +27,6 @@ To preview the website on a local server at <http://localhost:1313/>:
 hugo server
 ```
 
+
+[website]: https://cambiomed-biodiversa.com/
+[website-button]: https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=fishshell&logoColor=white

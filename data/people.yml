@@ -411,7 +411,28 @@ groups:
     members:
 
       - name: "Jan van Gemert"
+        photo: "images/people/tudelft/Jan-van-Gemert.jpg"
+        bio: |
+          Jan van Gemert received a PhD degree from the University of Amsterdam
+          in 2010. There he was a post-doctoral fellow as well as at École
+          Normale Supérieure in Paris. Currently he leads the Computer Vision
+          lab at Delft University of Technology. His research focuses on visual
+          inductive priors for deep learning for automatic image and video
+          understanding.
+        contribution: |
+          In CAMBioMed, his team works on semi-automatic image analysis of reef
+          photoquadrats.
       - name: "Daniel Pelsmaeker"
+        photo: "images/people/tudelft/Daniel-Pelsmaeker.jpg"
+        bio: |
+          Daniel Pelsmaeker is a Computer Science Postdoc working as part of the
+          Research and Engineering Infrastructure Team (REIT) of Delft
+          University of Technology. While he has a background in programming
+          languages, as a research engineer he works on a variety of topics
+          and projects.
+        contribution: |
+          In CAMBioMed, he works on semi-automatic image analysis of reef
+          photoquadrats.
     
 
   # Future Oceans Lab, University of Vigo, Vigo, Spain

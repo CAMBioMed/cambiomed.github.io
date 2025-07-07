@@ -5,3 +5,15 @@
 .people.items .inner p {
     font-size: 0.80rem;
 }
+
+
+
+.banner .image figcaption {
+    float: right;
+    z-index: 1;
+    position: relative;
+    margin-right: 1rem;
+    margin-top: 1rem;
+    font-size: 1rem;
+    font-weight: bold;
+}

@@ -17,3 +17,34 @@
     font-size: 1rem;
     font-weight: bold;
 }
+
+
+.items.style1 {
+    @include items-style1-size(big, 2, _size(gutter));
+    @include items-style1-size(medium, 3, _size(gutter) * 0.2);
+    @include items-style1-size(small, 4, _size(gutter) * 0.1);
+
+    @include breakpoint('<=large') {
+        @include items-style1-size-reset(small, 4);
+        @include items-style1-size(small, 3, _size(gutter) * 0.1);
+    }
+
+    @include breakpoint('<=medium') {
+        @include items-style1-size-reset(medium, 3);
+        @include items-style1-size(medium, 2, _size(gutter) * 0.2);
+
+        @include items-style1-size-reset(small, 3);
+        @include items-style1-size(small, 2, _size(gutter) * 0.2);
+    }
+
+    @include breakpoint('<=xsmall') {
+        @include items-style1-size-reset(big, 2);
+        @include items-style1-size(big, 1, _size(gutter) * 0.2);
+
+        @include items-style1-size-reset(medium, 2);
+        @include items-style1-size(medium, 1, _size(gutter) * 0.2);
+
+        @include items-style1-size-reset(small, 2);
+        @include items-style1-size(small, 1, _size(gutter) * 0.2);
+    }
+}

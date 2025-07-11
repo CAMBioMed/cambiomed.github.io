@@ -446,7 +446,7 @@ groups:
     members:
 
       - name: "Elena Ojea"
-        photo: "images/people/uvigo/Elena-Ojea.png"
+        photo: "images/people/uvigo/Elena-Ojea.jpg"
         bio: |
           Elena Ojea is a senior researcher at the University of Vigo. She holds a
           degree in Environmental Sciences and a PhD in Economics. Elena joined the
@@ -463,7 +463,7 @@ groups:
           linkedin: https://www.linkedin.com/in/elena-ojea-35427798/
 
       - name: "Silvia Rayo"
-        photo: "images/people/uvigo/Silvia-Rayo.png"
+        photo: "images/people/uvigo/Silvia-Rayo.jpg"
         bio: |
           Silvia Rayo joined the Future Oceans Lab team at the University of Vigo as
           a research assistant, contributing to various European projects. She holds

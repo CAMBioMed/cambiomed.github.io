@@ -86,6 +86,8 @@ groups:
           reefs. She investigates how natural processes and human stressors
           affect benthic communities, focusing on climate change, invasions, and
           habitat transitions driven by pollution or overgrazing.
+      - name: "Maria Vigo"
+        
 
   # Department of Marine Sciences, University of the Aegean, Mytilene Greece
   - name: "University of the Aegean"
@@ -483,7 +485,8 @@ groups:
   # ???
 
   # Centre for Marine Research, Ruder Boskovic Institute, Rovinj, Croatia
-  - name: "Fucalean forests"
+  - name: "Ruđer Bošković Institute"
+  # - name: "Fucalean forests"
     links:
       website: https://www.fucaleanforests.com/
     members:

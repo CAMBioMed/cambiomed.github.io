@@ -1,0 +1,11 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+title : "Main objectives"
+content: |
+  CAMBioMed aims to:
+  <ul>
+    <li>harmonise and improve monitoring designs, capitalising on the partners' long experience in national monitoring programs and the use of innovative tools (e.g. eDNA metabarcoding, satellite remote sensing, and artificial intelligence) for monitoring rocky reefs across the Mediterranean Sea;</li>
+    <li>improve our knowledge on the response of Mediterranean marine ecosystems to global and local stressors, by conducting extensive fieldwork and integrating an unprecedented volume of historical and new data;</li>
+    <li>provide a roadmap and practical guidelines for adaptive monitoring that incorporates social perceptions and values to contribute to the effective conservation of rocky reef ecosystems in the Mediterranean Sea, with a view to help and fulfil the objectives of the Biodiversity Strategy for 2030 and secure human wellbeing.</li>
+  </ul>
+image: "images/laura-tamburello/DSCN1532.jpg"

@@ -1,7 +1,10 @@
 {{ define "main" }}
 
-	{{ partial "banner" site.Data.banner }}
-	{{ partial "people" site.Data.people }}
+	{{ partial "banner" site.Data._1banner }}
+	{{ partial "spotlight" site.Data._2context }}
+	{{ partial "spotlight" site.Data._3mainobjectives }}
+	{{ partial "spotlight" site.Data._4mainactivities }}
+	{{ partial "people" site.Data._5people }}
 	<!-- {{ partial "spotlight" site.Data.spotlight1 }}
 	{{ partial "spotlight" site.Data.spotlight2 }}
 	{{ partial "spotlight" site.Data.spotlight3 }}

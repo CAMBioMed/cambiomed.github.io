@@ -1,5 +1,12 @@
+
 <section>
-    <!-- <span class="icon {{ .style }}"></span> -->
+    <div class="image">
+        <img src="{{ .photo }}" alt="" width="100%" class="person-image" data-modal-id="person-modal-{{ .name | urlize }}" style="cursor:pointer;"/>
+    </div>
+    <h3>{{ .name }}</h3>
+</section>
+
+<section id="person-modal-{{ .name | urlize }}" style="display:none;">
     <div class="image">
         <img src="{{ .photo }}" alt="" width="100%"/>
     </div>

@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
         modal.style.justifyContent = 'center';
         modal.style.alignItems = 'center';
         modal.style.zIndex = '9999';
-        modal.innerHTML = '<div id="person-modal-content" style="background:#fff;padding:2em;border-radius:8px;max-width:500px;max-height:80vh;overflow:auto;position:relative;"></div>' +
+        modal.innerHTML = '<div id="person-modal-content" class="person-modal" style="background:#fff;padding:2em;border-radius:8px;max-width:50vw;max-height:80vh;overflow:auto;position:relative;"></div>' +
             '<span id="person-modal-close" style="position:absolute;top:20px;right:40px;font-size:2em;cursor:pointer;color:#fff;">&times;</span>';
         document.body.appendChild(modal);
     }
@@ -36,8 +36,10 @@ document.addEventListener('DOMContentLoaded', function() {
             var hiddenSection = document.getElementById(modalId);
             if (hiddenSection) {
                 var content = hiddenSection.innerHTML;
-                document.getElementById('person-modal-content').innerHTML = content;
+                var modalContent = document.getElementById('person-modal-content');
+                modalContent.innerHTML = content;
                 modal.style.display = 'flex';
+                modalContent.scrollTop = 0;
             }
         });
     });

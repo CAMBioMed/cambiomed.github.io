@@ -22,4 +22,7 @@ content: |
   health, allowing for the monitoring program to evolve in response to changing
   conditions, and for decision-makers to answer critical questions related to
   biodiversity conservation in a changing Mediterranean Sea.
-image: "images/laura-tamburello/DSCN1396.jpg"
+image:
+  url: "images/laura-tamburello/DSCN1396.jpg"
+  alt: CAMBioMed
+  copyright: "© Laura Tamburello"

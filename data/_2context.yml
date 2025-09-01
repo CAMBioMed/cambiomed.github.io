@@ -16,4 +16,7 @@ content: |
   propose a novel toolkit for efficiently monitoring Mediterranean rocky
   ecosystems, and enable decision-makers to answer critical questions about the
   conservation of changing marine rocky ecosystems.
-image: "images/laura-tamburello/DSCN1577.jpg"
+image:
+  url: "images/laura-tamburello/DSCN1577.jpg"
+  alt: CAMBioMed
+  copyright: "© Laura Tamburello"

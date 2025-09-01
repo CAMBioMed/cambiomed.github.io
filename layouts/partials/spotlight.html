@@ -8,6 +8,11 @@
         </ul>{{ end }}
     </div>
     {{ with .image }}<div class="image">
-        <img src="{{ . }}" alt="" />
-    </div>{{ end }}
+        <figure>
+            <img src="{{.url}}" alt="{{.alt}}" />
+            {{ with .copyright }}
+            <figcaption>{{.}}</figcaption>
+            {{ end }}
+        </figure>
+    </div>{{end}}
 </section>

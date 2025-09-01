@@ -456,6 +456,70 @@ groups:
           instagram: https://www.instagram.com/silviasupertramp/
     
   # Department of Marine Biology, Oceanographic and Limnological Research, Haifa, Israel
+  - name: "Rilov lab"
+    links:
+      website: https://www.rilovlab.com/
+    members:
+
+      - name: "Guy Raanan"
+        email: TODO
+        bio: |
+          Lab Manager in the Rilov Lab for Marine Ecology at the Israel
+          Oceanographic and Limnological Research (IOLR), my primary focus is to
+          underpin and advance our critical investigations into marine
+          ecosystems. I manage essential resources and instrumentation that
+          enable our team to conduct vital field and analytical studies,
+          exploring the intricacies of marine biodiversity, ecosystem functions,
+          and the complex interactions within these environments.
+
+      - name: "Gil Rilov"
+        email: TODO
+        bio: |
+          Senior Researcher at Israel Oceanographic & Limnological Research
+          (IOLR), and Associate Professor in the University of Haifa. Gil is a
+          marine community ecologist and conservation biologist working mostly
+          on coastal benthic ecosystems. He studies how coastal marine
+          biodiversity, mostly that of rocky reefs, is and will be affected by
+          climate change, bioinvasions and overfishing, using both monitoring
+          and field and lab experiments. He also investigates how global and
+          local stressors lead to the alteration of ecosystem functions and
+          services, and studies the effectiveness of nature-based solutions.
+        
+      - name: "Shai Zilberman"
+        email: TODO
+        bio: |
+          I'm a research assistant in a marine ecology lab specializing in rocky
+          shore monitoring and data analysis in the Mediterranean. My work
+          focuses on understanding coastal biodiversity, tracking environmental
+          changes, and supporting long-term ecological research. I'm passionate
+          about combining fieldwork with data-driven insights to help understand
+          and manage marine ecosystems.
+      
+      - name: "Yuval Sonego"
+        email: TODO
+        bio: |
+          I'm a research assistant in a marine ecology lab studying
+          canopy-forming brown algae and their role in shaping coastal
+          ecosystems. A significant part of my work is dedicated to monitoring
+          populations of these habitat-forming species, which create unique
+          marine forest habitats along the Mediterranean coast. I have been
+          investigating their morphology, phenology, reproductive cycles, and
+          ecological functions to better understand their influence on community
+          structure and ecosystem processes in rocky shore environments.
+
+      - name: "Natalia Vasekha"
+        email: TODO
+        bio: |
+          Natalia Vasekha is a PhD student in Gil Rilov's marine community
+          ecology lab. Her research focuses on comparing structural and
+          functional changes in shallow macrophyte reef communities at two
+          Eastern Mediterranean change hotspots: Israel and Cyprus. Using
+          in-situ metabolic incubations, trait-based analysis, and monitoring of
+          selected native and introduced species, she investigates the combined
+          effects of warming and species invasions, and examines the roles and
+          interactions of key reef species.
+
+
   # ???
 
   # Centre for Marine Research, Ruder Boskovic Institute, Rovinj, Croatia

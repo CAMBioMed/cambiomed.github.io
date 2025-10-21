@@ -87,6 +87,23 @@ groups:
           affect benthic communities, focusing on climate change, invasions, and
           habitat transitions driven by pollution or overgrazing.
       - name: "Maria Vigo"
+        photo: "images/people/szn/Maria-Vigo.jpg"
+        email: TODO
+        links:
+          orcid: "https://orcid.org/0000-0003-4267-0160"
+          researchgate: "https://www.researchgate.net/profile/Maria-Vigo-Fernandez"
+        bio: |
+          My research activities focus on the study of marine ecosystem ecology
+          and management, with particular attention to the conservation and
+          restoration of degraded ecosystems. During my PhD, through underwater
+          visual surveys, acoustic tagging, capture-recapture experiments, field
+          experiments, analyses using a Before-After Control-Impact (BACI)
+          design, and optimization algorithms, I evaluated the effects and
+          effectiveness of a no-take zone located in the northwestern
+          Mediterranean Sea, and how its positive effects also extended to
+          adjacent fishing areas. In addition, my interests concern conservation
+          planning, not only by identifying priority areas but also by defining
+          where to establish new Marine Protected Areas.
         
 
   # Department of Marine Sciences, University of the Aegean, Mytilene Greece

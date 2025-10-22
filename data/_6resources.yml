@@ -1,0 +1,12 @@
+####################### Spotlight #########################
+style: "style1 orient-left content-align-left image-position-center onscroll-image-fade-in"
+id: "resources"
+title : "Resources"
+content: |
+  <ul>
+    <li><i class="fa-brands fa-youtube"></i> <a target="_blank" href="https://youtu.be/8NmsrsugPvw" class="brands fa-youtube">Protocol incubations CEAB 2025</a></li>
+  </ul>
+image:
+  url: "images/laura-tamburello/DSCN1539.jpg"
+  alt: CAMBioMed
+  copyright: "© Laura Tamburello"

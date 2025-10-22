@@ -5,8 +5,8 @@
         {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
         {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
         {{ with .button }}<ul class="actions stacked">
-            <li><a href="{{ .link }}" class="button primary large wide smooth-scroll-middle">{{ .label }}</a></li>
         </ul>{{ end }}
+                <li><a href="{{ .link }}" class="button {{ .class }} large wide smooth-scroll">{{ .label }}</a></li>
     </div>
     {{ with .image }}<div class="image">
         <figure>

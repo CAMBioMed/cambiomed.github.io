@@ -4,7 +4,22 @@ id: "resources"
 title : "Resources"
 content: |
   <ul>
-    <li><i class="fa-brands fa-youtube"></i> <a target="_blank" href="https://youtu.be/8NmsrsugPvw" class="brands fa-youtube">Protocol incubations CEAB 2025</a></li>
+    <li>
+      <i class="fa-brands fa-youtube"></i>
+      <strong>YouTube</strong>
+      <a target="_blank" href="https://youtu.be/8NmsrsugPvw">
+        Protocol incubations CEAB 2025
+      </a>
+      (video)
+    </li>
+    <li>
+      <i class="fa-regular fa-newspaper"></i>
+      <strong>Mediterranean Marine Science</strong>
+      <a target="_blank" href="https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/view/42764">
+        Hidden in plain sight: the overlooked establishment of the diamond lizardfish Synodus synodus (Linnaeus, 1758) in the Mediterranean Sea
+      </a>
+      (article)
+    </li>
   </ul>
 image:
   url: "images/laura-tamburello/DSCN1539.jpg"

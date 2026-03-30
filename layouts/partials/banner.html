@@ -3,14 +3,14 @@
     <div class="content">
         <img src="images/cambiomed-logo.svg" alt="CAMBioMed Logo" class="logo" style="width:100%" />
         {{ with .subtitle }}<p class="major">{{ . | safeHTML }}</p>{{ end }}
-        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
         {{ with .buttons }}
             <ul class="actions">
             {{ range . }}
-                <li><a href="{{ .link }}" class="button {{ .class }} large wide smooth-scroll">{{ .label }}</a></li>
+                <li style="display: inline-block"><a href="{{ .link }}" class="button {{ .class }} smooth-scroll">{{ .label }}</a></li>
             {{ end }}
             </ul>
         {{ end }}
+        {{ with .content }}<p>{{ . | safeHTML }}</p>{{ end }}
     </div>
     {{ with .image }}<div class="image">
         <figure>

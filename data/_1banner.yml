@@ -25,5 +25,7 @@ buttons:
     link: "#people"
   - label: "Resources"
     link: "#resources"
-image: "images/banner.jpg"
-
+image:
+  url: "images/banner.jpg"
+  alt: CAMBioMed
+  copyright: ""

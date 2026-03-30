@@ -14,8 +14,10 @@
     </div>
     {{ with .image }}<div class="image">
         <figure>
-            <img src="{{.}}" alt="CAMBioMed" />
-            <figcaption>&copy; Laura Tamburello</figcaption>
+            <img src="{{.url}}" alt="{{.alt}}" />
+            {{ with .copyright }}
+            <figcaption>{{.}}</figcaption>
+            {{ end }}
         </figure>
     </div>{{end}}
 </section>

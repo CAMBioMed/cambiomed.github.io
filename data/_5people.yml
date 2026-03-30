@@ -105,19 +105,6 @@ groups:
           adjacent fishing areas. In addition, my interests concern conservation
           planning, not only by identifying priority areas but also by defining
           where to establish new Marine Protected Areas.
-      - name: "Dimitris Poursanidis"
-        photo: "images/people/szn/Dimitris-Poursanidis.jpg"
-        email: TODO
-        bio: |
-          Dimitris Poursanidis, Ph.D., is a marine scientist and earth
-          observation analyst committed to unraveling the mysteries of our
-          seascapes. With a wealth of expertise in marine ecology and
-          biodiversity, he has dedicated his career to understanding the
-          delicate balance of marine ecosystems and the impacts of human
-          activities. Driven by a passion for conservation, Dimitris explores
-          the intricate relationships between marine organisms and their
-          environment, striving to protect biodiversity and promote sustainable
-          practices.
         
 
   # Department of Marine Sciences, University of the Aegean, Mytilene Greece
@@ -241,6 +228,20 @@ groups:
         links:
           linkedin: https://www.linkedin.com/in/orestis-papadakis-477a1b70/
           researchgate: https://www.researchgate.net/profile/Orestis-Papadakis
+
+      - name: "Dimitris Poursanidis"
+        photo: "images/people/aegean/Dimitris-Poursanidis.jpg"
+        email: TODO
+        bio: |
+          Dimitris Poursanidis, Ph.D., is a marine scientist and earth
+          observation analyst committed to unraveling the mysteries of our
+          seascapes. With a wealth of expertise in marine ecology and
+          biodiversity, he has dedicated his career to understanding the
+          delicate balance of marine ecosystems and the impacts of human
+          activities. Driven by a passion for conservation, Dimitris explores
+          the intricate relationships between marine organisms and their
+          environment, striving to protect biodiversity and promote sustainable
+          practices.
 
       - name: "Giulia Pitarra"
         photo: "images/people/aegean/Giulia-Pitarra.jpg"

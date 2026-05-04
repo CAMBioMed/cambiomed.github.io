@@ -1,15 +1,12 @@
-title : "Who are we?"
+title: "Who are we?"
 id: "people"
 content: |
   We are a team of researchers from marine biology and other backgrounds and disciplines.
 style: "style1 medium"
-
 groups:
-
   # Sicily Marine Centre, Zoological Station Anton Dohrn, Palermo, Italy
   - name: "Stazione Zoologica Anton Dohrn"
     members:
-
       - name: "Sylvaine Giakoumi"
         photo: "images/people/szn/Sylvaine-Giakoumi.jpg"
         email: TODO'
@@ -105,12 +102,22 @@ groups:
           adjacent fishing areas. In addition, my interests concern conservation
           planning, not only by identifying priority areas but also by defining
           where to establish new Marine Protected Areas.
-        
+      - name: "Akrem Dridi"
+        photo: "images/people/szn/Akrem-Dridi.jpg"
+        email: TODO
+        bio: |
+          I'm a Tunisian marine biologist currently doing a research fellowship
+          at the Stazione Zoologica in Palermo. I'm focused on marine and habitat
+          conservation, more specifically on mediterranean biodiversity hotspots
+          such as Posidonia meadows and marine caves. I was also involved in
+          citizen science projects promoting holistic approaches on marine
+          conservation and the promotion of a sustainable blue economy in Tunisia.
+          Now I'm starting a new adventure in Italy with the aim to have more
+          experience in using new technologies such as AI tools coupled with ecology.
 
   # Department of Marine Sciences, University of the Aegean, Mytilene Greece
   - name: "University of the Aegean"
     members:
-
       - name: "Maria Sini"
         title: "Postdoctoral researcher"
         photo: "images/people/aegean/Maria-Sini.jpg"
@@ -158,7 +165,7 @@ groups:
           international journals, and his work has received >20,000 citations
           (scholar.google). He is included among the top 1% scientists
           worldwide in Marine Biology, based on Scopus standardized citation
-          metrics. 
+          metrics.
         contribution: |
           He is coordinating the University of the Aegean Team. He is leading
           WP1 and co-leading WP3.
@@ -196,7 +203,7 @@ groups:
           scientific diver for marine megabenthic organisms.
         links:
           researchgate: https://www.researchgate.net/profile/Maria-Zotou
-        
+
       - name: "Orestis Papadakis"
         title: "PhD candidate in Marine Ecology"
         photo: "images/people/aegean/Orestis-Papadakis.jpg"
@@ -250,7 +257,7 @@ groups:
           Giulia Pitarra is a marine biology researcher at the University of
           Aegean currently working on protected species conservation projects.
           Her main field of expertise is Mediterranean coral reef monitoring and
-          restoration. 
+          restoration.
         contribution: |
           Participating as a fieldwork scientific diver for invertebrate data
           collection.
@@ -264,7 +271,6 @@ groups:
           for the sea and years of experience as a diving instructor, Yiannis
           will be joining the CAMBioMed project as a fieldwork diver.
 
-    
   # Department of Social Anthropology, Stockholm University, Stockholm, Sweden
   - name: "Stockholm University"
     members:
@@ -291,13 +297,11 @@ groups:
           website: https://www.su.se/english/profiles/kaah9715-1.429043?open-collapse-boxes=research-projects,body-research
           # website: https://www.su.se/english/research/research-projects/the-environmental-afterlives-of-the-suez-canal
 
-
-
   # Department of Marine Ecology, The Spanish National Research Council, Blanes, Spain
   # - name: "Marine Forest"
   - name: "CSIC"
     links:
-      website:  https://www.icm.csic.es/es/grupo-investigacion/ecologia-y-resiliencia-de-los-ecosistemas-bentonicos-en-un-oceano-en-cambio
+      website: https://www.icm.csic.es/es/grupo-investigacion/ecologia-y-resiliencia-de-los-ecosistemas-bentonicos-en-un-oceano-en-cambio
       # website: https://www.marineforest.com/
       instagram: https://www.instagram.com/marineforests/
       twitter: https://x.com/marineforest_
@@ -306,7 +310,6 @@ groups:
       # https://www.instagram.com/obsdelmar/
       # https://x.com/obsdelmar
     members:
-
       - name: "Emma Cebrian"
         title: "Senior Scientist"
         photo: "images/people/ceab/Emma-Cebrian.jpg"
@@ -361,7 +364,7 @@ groups:
           services, assessing biodiversity recovery using both taxonomic and
           functional-trait approaches and ecosystem processes like primary
           production and respiration. During my PhD I also explored the effects
-          of habitat fragmentation on the biodiversity of macroalgal forests. 
+          of habitat fragmentation on the biodiversity of macroalgal forests.
       - name: "Uxue Moreda"
         title: "PhD student"
         photo: "images/people/ceab/Uxue-Moreda.jpg"
@@ -373,7 +376,7 @@ groups:
           macroalgal forests through innovative, multidisciplinary, and
           applicable science. Currently, I am pursuing a PhD studying Laminaria
           rodriguezii forests, an endangered deep-water kelp species endemic to
-          the Mediterranean Sea. 
+          the Mediterranean Sea.
       - name: "Toni Vivó"
         title: "Postdoctoral researcher"
         photo: "images/people/ceab/Toni-Vivo.jpg"
@@ -386,12 +389,11 @@ groups:
           invasions, exploring how introduced species can establish themselves
           in new areas, what characteristics might give them an advantage over
           native species, and how ecological theory could be applied to improve
-          prevention efforts for future invasions. 
+          prevention efforts for future invasions.
 
   # Department of Biology, University of Pisa, Pisa, Italy
   - name: "UNIPI"
     members:
-
       - name: "Fabio Bulleri"
         title: "Associate Professor"
         photo: "images/people/unipi/Fabio-Bulleri.jpg"
@@ -408,7 +410,7 @@ groups:
         contribution: |
           In CAMBioMed, he will lead research assessing how MPAs can reduce the
           erosion of ecosystem services, such as blue carbon potential,
-          generated by marine forests. 
+          generated by marine forests.
         links:
           website: https://unimap.unipi.it/cercapersone/dettaglio.php?ri=5195
           scholar: https://scholar.google.com/citations?user=Qlogt7kAAAAJ
@@ -434,7 +436,6 @@ groups:
   # Department of Intelligent Systems, Delft University of Technology, Delft, Netherlands
   - name: "Delft University of Technology"
     members:
-
       - name: "Jan van Gemert"
         photo: "images/people/tudelft/Jan-van-Gemert.jpg"
         bio: |
@@ -458,7 +459,6 @@ groups:
         contribution: |
           In CAMBioMed, he works on semi-automatic image analysis of reef
           photoquadrats.
-    
 
   # Future Oceans Lab, University of Vigo, Vigo, Spain
   - name: "UVIGO"
@@ -467,7 +467,6 @@ groups:
       linkedin: https://www.linkedin.com/company/future-oceans-lab-cim/
       instagram: https://www.instagram.com/futureoceanslab/
     members:
-
       - name: "Elena Ojea"
         photo: "images/people/uvigo/Elena-Ojea.jpg"
         bio: |
@@ -482,7 +481,7 @@ groups:
           such that adaptive management can continue to support ecosystem services
           from rocky ecosystems in the Mediterranean and their pluralistic values.
         links:
-          website: https://futureoceanslab.org/team/elena-ojea/ 
+          website: https://futureoceanslab.org/team/elena-ojea/
           linkedin: https://www.linkedin.com/in/elena-ojea-35427798/
 
       - name: "Silvia Rayo"
@@ -503,14 +502,13 @@ groups:
         links:
           linkedin: https://www.linkedin.com/in/silviarayoluengo/
           instagram: https://www.instagram.com/silviasupertramp/
-    
+
   # Department of Marine Biology, Oceanographic and Limnological Research, Haifa, Israel
   - name: "Rilov lab"
     links:
       website: https://www.rilovlab.com/
       instagram: https://www.instagram.com/rilov_lab_iolr/
     members:
-
       - name: "Gil Rilov"
         photo: "images/people/rilov/Gil-Rilov.jpg"
         email: TODO
@@ -536,7 +534,7 @@ groups:
           enable our team to conduct vital field and analytical studies,
           exploring the intricacies of marine biodiversity, ecosystem functions,
           and the complex interactions within these environments.
-        
+
       - name: "Shai Zilberman"
         photo: "images/people/rilov/Shai-Zilberman.jpg"
         email: TODO
@@ -547,7 +545,7 @@ groups:
           changes, and supporting long-term ecological research. I'm passionate
           about combining fieldwork with data-driven insights to help understand
           and manage marine ecosystems.
-      
+
       - name: "Yuval Sonego"
         photo: "images/people/rilov/Yuval-Sonego.jpg"
         email: TODO
@@ -574,16 +572,13 @@ groups:
           effects of warming and species invasions, and examines the roles and
           interactions of key reef species.
 
-
   # ???
 
   # Centre for Marine Research, Ruder Boskovic Institute, Rovinj, Croatia
   - name: "Ruđer Bošković Institute"
-  # - name: "Fucalean forests"
     links:
       website: https://www.fucaleanforests.com/
     members:
-
       - name: "Ljiljana Iveša"
         photo: "images/people/fucalean/Ljiljana-Ivesa.jpg"
         email: TODO

@@ -6,31 +6,31 @@ content: |
   <ul>
 
     <li>
-      <i class="fa-regular fa-book-open"></i>
-      <strong>Journal of Applied Ecology</strong>
-      Vivó-Pons, A., Jaspers, C., Seebens, H., Thorson, J., Lusseau, D., & Lindegren, M. (2026).
-      <a target="_blank" href="https://doi.org/10.1111/1365-2664.70527">
+      <i class="fa-solid fa-book-open"></i>
+      <strong><a target="_blank" href="https://doi.org/10.1111/1365-2664.70527">
         Global patterns and processes of establishment risk by non-indigenous marine fish
-      </a>
-      (article)
+      </a></strong> (2026)<br/>
+      Vivó-Pons, A., Jaspers, C., Seebens, H., Thorson, J., Lusseau, D., & Lindegren, M.<br/>
+      <em>Journal of Applied Ecology</em>
+      (paper)
     </li>
 
     <li>
-      <i class="fa-regular fa-book-open"></i>
-      <strong>Mediterranean Marine Science</strong>
-      Di Franco, A., Somma, E., Di Lorenzo, M., Koutoulakis, Y., Furuhashi, R., Giakoumi, S. (2026).
-      <a target="_blank" href="https://doi.org/10.12681/mms.42764">
+      <i class="fa-regular fa-newspaper"></i>
+      <strong><a target="_blank" href="https://doi.org/10.12681/mms.42764">
         Hidden in plain sight: the overlooked establishment of the diamond lizardfish Synodus synodus (Linnaeus, 1758) in the Mediterranean Sea
-      </a>
+      </a></strong> (2026)<br/>
+      Di Franco, A., Somma, E., Di Lorenzo, M., Koutoulakis, Y., Furuhashi, R., Giakoumi, S.<br/>
+      <em>Mediterranean Marine Science</em>
       (article)
     </li>
 
     <li>
       <i class="fa-brands fa-youtube"></i>
-      <strong>YouTube</strong>
-      <a target="_blank" href="https://youtu.be/8NmsrsugPvw">
-        Protocol incubations CEAB 2025
-      </a>
+      <strong><a target="_blank" href="https://youtu.be/8NmsrsugPvw">
+        Protocol incubations CEAB
+      </a></strong> (2025)<br/>
+      <em>YouTube</em>
       (video)
     </li>
     

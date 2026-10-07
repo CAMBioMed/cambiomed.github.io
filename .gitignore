@@ -1,14 +1,27 @@
 # Hugo
+/.hugo_build.lock
+/assets/jsconfig.json
 /public/
 /resources/_gen/
-/assets/jsconfig.json
 hugo_stats.json
-hugo.exe
 hugo.darwin
+hugo.exe
 hugo.linux
-/.hugo_build.lock
 
 # Misc
+._*
 .cache
+.direnv/
 .DS_Store
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
 *.lock
+*.log
+*.swp
+*~
+/result
+/result-*
+ehthumbs.db
+Thumbs.db

@@ -1,0 +1,14 @@
+[tools]
+hugo-extended = "0.146.4"
+
+[tasks.build]
+description = "Build the production site"
+run = "hugo --minify"
+
+[tasks.test]
+description = "Validate the site"
+run = "hugo --renderToMemory --panicOnWarning"
+
+[tasks.serve]
+description = "Serve the site locally"
+run = "hugo server --buildDrafts"

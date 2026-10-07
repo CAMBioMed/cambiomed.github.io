@@ -4,6 +4,27 @@ id: "resources"
 title : "Resources"
 content: |
   <ul>
+
+    <li>
+      <i class="fa-regular fa-book-open"></i>
+      <strong>Journal of Applied Ecology</strong>
+      Vivó-Pons, A., Jaspers, C., Seebens, H., Thorson, J., Lusseau, D., & Lindegren, M. (2026).
+      <a target="_blank" href="https://doi.org/10.1111/1365-2664.70527">
+        Global patterns and processes of establishment risk by non-indigenous marine fish
+      </a>
+      (article)
+    </li>
+
+    <li>
+      <i class="fa-regular fa-book-open"></i>
+      <strong>Mediterranean Marine Science</strong>
+      Di Franco, A., Somma, E., Di Lorenzo, M., Koutoulakis, Y., Furuhashi, R., Giakoumi, S. (2026).
+      <a target="_blank" href="https://doi.org/10.12681/mms.42764">
+        Hidden in plain sight: the overlooked establishment of the diamond lizardfish Synodus synodus (Linnaeus, 1758) in the Mediterranean Sea
+      </a>
+      (article)
+    </li>
+
     <li>
       <i class="fa-brands fa-youtube"></i>
       <strong>YouTube</strong>
@@ -12,14 +33,7 @@ content: |
       </a>
       (video)
     </li>
-    <li>
-      <i class="fa-regular fa-newspaper"></i>
-      <strong>Mediterranean Marine Science</strong>
-      <a target="_blank" href="https://ejournals.epublishing.ekt.gr/index.php/hcmr-med-mar-sc/article/view/42764">
-        Hidden in plain sight: the overlooked establishment of the diamond lizardfish Synodus synodus (Linnaeus, 1758) in the Mediterranean Sea
-      </a>
-      (article)
-    </li>
+    
   </ul>
 image:
   url: "images/laura-tamburello/DSCN1539.jpg"
